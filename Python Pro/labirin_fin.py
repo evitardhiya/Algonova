@@ -1,4 +1,4 @@
-# Create your game in this file!
+#import moduls
 from pygame import *
 
 #kelas parents
